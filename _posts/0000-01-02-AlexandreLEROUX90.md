@@ -2,8 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
-
+youplaboum
 ---
 
 Your text
